@@ -1,0 +1,13 @@
+C:\Users\Danil\source\repos\EPAM_LAB_4\_Polinomial\bin\Debug\netcoreapp3.1\_Polinomial.exe
+C:\Users\Danil\source\repos\EPAM_LAB_4\_Polinomial\bin\Debug\netcoreapp3.1\_Polinomial.deps.json
+C:\Users\Danil\source\repos\EPAM_LAB_4\_Polinomial\bin\Debug\netcoreapp3.1\_Polinomial.runtimeconfig.json
+C:\Users\Danil\source\repos\EPAM_LAB_4\_Polinomial\bin\Debug\netcoreapp3.1\_Polinomial.runtimeconfig.dev.json
+C:\Users\Danil\source\repos\EPAM_LAB_4\_Polinomial\bin\Debug\netcoreapp3.1\_Polinomial.dll
+C:\Users\Danil\source\repos\EPAM_LAB_4\_Polinomial\bin\Debug\netcoreapp3.1\_Polinomial.pdb
+C:\Users\Danil\source\repos\EPAM_LAB_4\_Polinomial\obj\Debug\netcoreapp3.1\_Polinomial.csprojAssemblyReference.cache
+C:\Users\Danil\source\repos\EPAM_LAB_4\_Polinomial\obj\Debug\netcoreapp3.1\_Polinomial.AssemblyInfoInputs.cache
+C:\Users\Danil\source\repos\EPAM_LAB_4\_Polinomial\obj\Debug\netcoreapp3.1\_Polinomial.AssemblyInfo.cs
+C:\Users\Danil\source\repos\EPAM_LAB_4\_Polinomial\obj\Debug\netcoreapp3.1\_Polinomial.csproj.CoreCompileInputs.cache
+C:\Users\Danil\source\repos\EPAM_LAB_4\_Polinomial\obj\Debug\netcoreapp3.1\_Polinomial.dll
+C:\Users\Danil\source\repos\EPAM_LAB_4\_Polinomial\obj\Debug\netcoreapp3.1\_Polinomial.pdb
+C:\Users\Danil\source\repos\EPAM_LAB_4\_Polinomial\obj\Debug\netcoreapp3.1\_Polinomial.genruntimeconfig.cache

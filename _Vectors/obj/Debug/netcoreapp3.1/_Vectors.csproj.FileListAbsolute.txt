@@ -1,0 +1,13 @@
+C:\Users\Danil\Source\Repos\EPAM_LAB_4\_Vectors\bin\Debug\netcoreapp3.1\_Vectors.exe
+C:\Users\Danil\Source\Repos\EPAM_LAB_4\_Vectors\bin\Debug\netcoreapp3.1\_Vectors.deps.json
+C:\Users\Danil\Source\Repos\EPAM_LAB_4\_Vectors\bin\Debug\netcoreapp3.1\_Vectors.runtimeconfig.json
+C:\Users\Danil\Source\Repos\EPAM_LAB_4\_Vectors\bin\Debug\netcoreapp3.1\_Vectors.runtimeconfig.dev.json
+C:\Users\Danil\Source\Repos\EPAM_LAB_4\_Vectors\bin\Debug\netcoreapp3.1\_Vectors.dll
+C:\Users\Danil\Source\Repos\EPAM_LAB_4\_Vectors\bin\Debug\netcoreapp3.1\_Vectors.pdb
+C:\Users\Danil\Source\Repos\EPAM_LAB_4\_Vectors\obj\Debug\netcoreapp3.1\_Vectors.csprojAssemblyReference.cache
+C:\Users\Danil\Source\Repos\EPAM_LAB_4\_Vectors\obj\Debug\netcoreapp3.1\_Vectors.AssemblyInfoInputs.cache
+C:\Users\Danil\Source\Repos\EPAM_LAB_4\_Vectors\obj\Debug\netcoreapp3.1\_Vectors.AssemblyInfo.cs
+C:\Users\Danil\Source\Repos\EPAM_LAB_4\_Vectors\obj\Debug\netcoreapp3.1\_Vectors.csproj.CoreCompileInputs.cache
+C:\Users\Danil\Source\Repos\EPAM_LAB_4\_Vectors\obj\Debug\netcoreapp3.1\_Vectors.dll
+C:\Users\Danil\Source\Repos\EPAM_LAB_4\_Vectors\obj\Debug\netcoreapp3.1\_Vectors.pdb
+C:\Users\Danil\Source\Repos\EPAM_LAB_4\_Vectors\obj\Debug\netcoreapp3.1\_Vectors.genruntimeconfig.cache
